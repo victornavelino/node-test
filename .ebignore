@@ -1,1 +1,7 @@
-src
+node_modules/
+.git/
+src/
+*.log
+.DS_Store
+.eslint*
+vite.config.js
